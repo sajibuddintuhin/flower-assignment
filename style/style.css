@@ -1,0 +1,158 @@
+* {
+  font-family: "Ysabeau Office", sans-serif;
+}
+header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 500px;
+  background-color: #ffe4ea;
+}
+.banner {
+  width: 500px;
+  margin-left: 100px;
+}
+.banner-img img {
+  width: 400px;
+}
+.btn-primary {
+  background-color: #e55473;
+  width: 100px;
+  height: 40px;
+  border: none;
+  border-radius: 5px;
+}
+
+.flowers-text {
+  text-align: center;
+  margin-top: 100px;
+}
+.flowers-content {
+  display: flex;
+  justify-content: center;
+}
+.flowers-banner {
+  background-color: #a72162;
+  width: 250px;
+  height: 350px;
+  margin-top: 50px;
+  margin-right: 20px;
+  border-top-left-radius: 150px;
+  border-top-right-radius: 150px;
+}
+.flowers-banner img {
+  width: 200px;
+  margin-top: 73px;
+  margin-left: 10%;
+}
+.flowers-content > div > p {
+  width: 120px;
+  margin-top: 355px;
+  margin-left: 15%;
+  border-bottom: #1b191a solid 2px;
+}
+
+.flowers-banner-1 {
+  background-color: #a72162;
+  background-image: url(../Asset/pngwing\ 5.png);
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: 0;
+  width: 250px;
+  height: 350px;
+  margin-top: 50px;
+  margin-right: 20px;
+  border-top-left-radius: 150px;
+  border-top-right-radius: 150px;
+}
+.flowers-banner-2 {
+  background-color: #a72162;
+  background-image: url(../Asset/pngwing\ 6.png);
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: 0;
+  width: 250px;
+  height: 350px;
+  margin-top: 50px;
+  margin-right: 20px;
+  border-top-left-radius: 150px;
+  border-top-right-radius: 150px;
+}
+.flowers-banner-3 {
+  background-color: #a72162;
+  background-image: url(../Asset/pngwing\ 7.png);
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: 0;
+  width: 250px;
+  height: 350px;
+  margin-top: 50px;
+  margin-right: 20px;
+  border-top-left-radius: 150px;
+  border-top-right-radius: 150px;
+}
+
+.sign-banner {
+  height: 350px;
+  margin-top: 100px;
+  width: 1083px;
+  margin-left: 182px;
+  background-image: url(../Asset/pngwing\ 8.png);
+  background-repeat: no-repeat;
+  background-position: right;
+  background-size: contain;
+}
+.sign-banner > div {
+  padding-top: 115px;
+  margin-left: 150px;
+}
+.instra-text {
+  text-align: center;
+  margin-bottom: 50px;
+}
+.instra-img img {
+  width: 300px;
+}
+.instra-img {
+  margin-left: 10%;
+}
+
+.mail-box {
+  background-image: url(../Asset/Rectangle\ 9.png);
+  background-repeat: no-repeat;
+  height: 350px;
+  margin-left: 147px;
+  width: 1222px;
+  text-align: center;
+}
+
+.mail-box > h2 {
+  margin-bottom: 0;
+}
+.mail-box > p {
+  margin-top: 0;
+}
+.email {
+  margin-top: 10%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.email > input {
+  width: 300px;
+  height: 36px;
+  border: none;
+}
+footer {
+  margin-top: 100px;
+  text-align: center;
+  height: 250px;
+  background-color: #1b191a;
+  color: #e6cdcd;
+}
+footer > h2 {
+  padding-top: 67px;
+}
+.text-primary {
+  color: #e55473;
+}
